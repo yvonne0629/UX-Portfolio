@@ -1,12 +1,12 @@
 # UX-Portfolio
 
-IMT 549 Spring 2020
+#### IMT 549 Spring 2020
 
-Creator: Cheng Feng Sun
+_Creator: Cheng Feng Sun_
 
-This website is created to my UX work and projects I did on the side.
+This website is created to document my past projects and illustrations I did on the side.
 
-About me:
+#### About me:
 
 I’m based in Seattle but originally hail from the lively city of Taipei, Taiwan.
 

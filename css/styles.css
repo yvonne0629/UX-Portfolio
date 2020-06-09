@@ -1,0 +1,189 @@
+html {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 16px;
+}
+
+/* 
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li {
+  display: flex;
+  padding-top: 5px;
+  page-break-after: 5px;
+}
+
+li .feature-descr {
+  padding-left: 10px;
+}
+
+.flex-column {
+  flex-grow: 1;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+}
+
+.tagline {
+  font-weight: 300;
+}
+
+ul {
+  list-style: none;
+  margin: 0pt;
+  padding: 0pt;
+}
+*/
+
+h1 {
+  font-family: "Asar", serif;
+  font-weight: 100;
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+h2 {
+  font-family: "Carrois Gothic SC", sans-serif;
+  font-size: 1rem;
+  margin-top: 0;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+  margin-top: 0;
+}
+
+.basicimg {
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+.svg {
+  height: 30px;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+footer {
+  background-color: transparent;
+}
+
+header {
+  background: transparent;
+}
+
+.email {
+  font-family: "Crimson Text", serif;
+  font-size: 50px;
+}
+
+.copyright {
+  font-size: 9px;
+}
+
+a {
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+  border-width: 0px;
+  -webkit-box-shadow: 0px 0px;
+  box-shadow: 0px 0px;
+  background-color: rgba(0, 0, 0, 0);
+  background-image: -webkit-gradient(
+    linear,
+    50% 0%,
+    50% 100%,
+    color-stop(0%, rgba(0, 0, 0, 0)),
+    color-stop(100%, rgba(0, 0, 0, 0))
+  );
+  background-image: -webkit-linear-gradient(
+    270deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background-image: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+/*
+@media (min-width: 768px) {
+  .container {
+    max-width: 750px;
+  }
+  header {
+    background-image: url("../images/angelina-litvin-32188-unsplash.jpg");
+    background-size: cover;
+    background-position: right bottom;
+    font-size: 18px;
+    color: black;
+    padding-top: 100px;
+    padding-bottom: 20px;
+  }
+  h1 {
+    font-size: 5rem;
+  }
+  .tagline {
+    font-size: 1.5rem;
+    max-width: 50%;
+  }
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  li {
+    flex-basis: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 970px;
+  }
+  header {
+    padding-top: 150px;
+    padding-bottom: 50px;
+  }
+  li {
+    flex-basis: 33%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1170px;
+  }
+}
+*/

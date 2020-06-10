@@ -1,14 +1,33 @@
 html {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
-    Helvetica, Arial, "Lucida Grande", sans-serif;
+    "Carrois Gothic SC", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: 16px;
 }
 
-/* 
-* {
-  box-sizing: border-box;
+body {
+  background-color: #fffff0;
 }
 
+.navbar-toggler-icon.navbar-toggle {
+  background-image: url("https://mdbootstrap.com/img/svg/hamburger1.svg?color=#000000");
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.navbar-default {
+  background-color: #69899f;
+
+  border-color: #425766;
+}
+
+.btn {
+  font-family: "Carrois Gothic SC", sans-serif;
+  color: black;
+  background-color: transparent;
+  border-color: transparent;
+}
 .container {
   padding-top: 1rem;
   padding-bottom: 0.5rem;
@@ -17,6 +36,10 @@ html {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 li {
@@ -44,13 +67,15 @@ ul {
   margin: 0pt;
   padding: 0pt;
 }
-*/
-
 h1 {
   font-family: "Asar", serif;
   font-weight: 100;
   font-size: 1.5rem;
   margin-top: 0;
+}
+
+.iframe {
+  frame-border: 0;
 }
 
 h2 {
